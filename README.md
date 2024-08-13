@@ -9,9 +9,9 @@ This project is a text-based adventure game where the player navigates through a
 - Engaging narrative with suspense and mystery
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/treasure-island.git`
-2. Navigate to the project directory: `cd treasure-island`
+1. Clone the repository: `git clone https://github.com/PranavSai29/Treasure-Island`
+2. Navigate to the project directory: `cd Treasure-Island`
 
 ## Usage
-To start the game, run the `main.py` script:
-i.e., `python main.py`
+To start the game, run the `task.py` script:
+i.e., `python task.py`
